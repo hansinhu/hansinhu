@@ -1,7 +1,8 @@
 
 ![image](https://github.com/hansinhu/hansinhu/blob/master/dino.gif)
 
-### Hey 👋🏽, I'm [Hansin!](https://www.zhihu.com/people/hansin) 
+### Hey 👋🏽, I'm [Hansin!](https://www.zhihu.com/people/hansin)   
+  <img align="right" alt="GIF" width='400' src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
 
 <br/>
 
