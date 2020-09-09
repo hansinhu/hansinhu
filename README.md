@@ -5,10 +5,10 @@
 
 <br/>
 
-<a href="#shibuyayuri">
+<a href="#hansinhu">
   <img align="left" alt="shibuyayuri" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
-<a href="#1533540012">
+<a href="#980633361">
   <img align="left" alt="1533540012" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://www.zhihu.com/people/hansin">
@@ -27,7 +27,7 @@
 
 Hi, I'm Hansin, a Full Stack Developer 🚀 from China, I'm the founder of xxx, author of xxx, and……
 
-  <img align="right" alt="GIF" width='200' src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
+  <img align="right" alt="GIF" width='400' src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
   
 **Talking about Personal Stuffs:**
 
