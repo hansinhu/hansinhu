@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Hansin!](https://www.zhihu.com/people/hansin)   
 
-  <img align="right" alt="GIF" width='400' style="margin-top: -30px;" src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
+  <img align="right" alt="GIF" width='500' style="margin-top: -40px;" src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
 
 <br/>
 
