@@ -24,7 +24,7 @@
 
 <br />
 
-Hi, I'm Hansin, a Full Stack Developer 🚀 from China, I'm the founder of xxx, author of xxx, and……
+Hi, I'm Hansin, a Web Developer 🚀 from China Hangzhou
   
 **Talking about Personal Stuffs:**
 
