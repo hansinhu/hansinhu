@@ -2,6 +2,7 @@
 ![image](https://github.com/hansinhu/hansinhu/blob/master/dino.gif)
 
 ### Hey 👋🏽, I'm [Hansin!](https://www.zhihu.com/people/hansin)   
+
   <img align="right" alt="GIF" width='400' src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
 
 <br/>
@@ -27,8 +28,6 @@
 <br />
 
 Hi, I'm Hansin, a Full Stack Developer 🚀 from China, I'm the founder of xxx, author of xxx, and……
-
-  <img align="right" alt="GIF" width='400' src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
   
 **Talking about Personal Stuffs:**
 
