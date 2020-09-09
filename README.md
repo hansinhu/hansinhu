@@ -27,7 +27,7 @@
 
 Hi, I'm Hansin, a Full Stack Developer 🚀 from China, I'm the founder of xxx, author of xxx, and……
 
-  <img align="right" alt="GIF" src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
+  <img align="right" alt="GIF" width='200' src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
   
 **Talking about Personal Stuffs:**
 
