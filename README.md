@@ -20,7 +20,7 @@
   <img align="left" alt="Yisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=741556e7169df24b29348c5e7686d7405f79e498)
 
 <br />
 
