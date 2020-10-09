@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Hansin!](https://www.zhihu.com/people/hansin)   
 
   <img align="right" alt="GIF" width='500' style="margin-top: -40px;" src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img align="right" alt="GIF" width='500' style="margin-top: -40px;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <br/>
 
@@ -29,7 +29,7 @@ Hi, I'm Hansin, a Web Developer 🚀 from China Hangzhou
   
 **Talking about Personal Stuffs:**
 
-- 👨 I’m currently working on [CLUBFACTORY](https://www.clubfactory.com)
+- 👨 I’m currently working on [Tuya.com](https://www.tuya.com)
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 😜 I'm focusing on fre and any other repos.
