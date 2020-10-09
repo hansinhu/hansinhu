@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Hansin!](https://www.zhihu.com/people/hansin)   
 
-  <img align="right" alt="GIF" width='450' style="margin-top: -40px;" src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
-  <img align="right" alt="GIF" width='450' style="margin-top: -40px;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img align="right" alt="GIF" width='480' style="margin-top: -40px;" src="https://github.com/hansinhu/hansinhu/blob/master/dino.gif" />
+  <img align="right" alt="GIF" width='480' style="margin-top: -40px;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <br/>
 
