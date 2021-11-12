@@ -29,7 +29,7 @@ Hi, I'm Hansin, a Web Developer 🚀 from China Hangzhou
   
 **Talking about Personal Stuffs:**
 
-- 👨 I’m currently working on [Tuya.com](https://www.tuya.com)
+<!-- - 👨 I’m currently working on  -->
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 😜 I'm focusing on fre and any other repos.
